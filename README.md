@@ -3,7 +3,9 @@ Virtual Lab tool based on Matlab/Octave script for Control Engineering compatibl
 
 ## Requirements
 
-Google Colab application enabled on Google Drive, which is free to use. Google Colab appears as one of Google Apps in Google Drive.
+Google Colab application enabled on Google Drive, which is free to use.
+
+Google Colab appears as one of Google Apps in Google Drive.
 
 ## How to Use
 
